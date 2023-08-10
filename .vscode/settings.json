@@ -1,0 +1,4 @@
+{
+    "rdbg.rubyVersionManager": "rvm",
+    "ruby.rubocop.useBundler": true
+}

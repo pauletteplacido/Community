@@ -1,0 +1,12 @@
+<div class="form-group">
+
+  <%= form_for(@image) do |f| %>
+    <br> 
+    <%= f.label :description %><br>
+    <%= f.text_field :description, class: "form control" %>
+    <br>  
+    <%= f.label :picture %><br>
+    <%= f.file_field :picture %>
+    <%= f.submit "Enviar", :class => "btn btn-prymary" %>
+  <% end %>
+</div>

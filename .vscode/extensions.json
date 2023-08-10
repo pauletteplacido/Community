@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+        "koichisasada.vscode-rdbg",
+        "craigmaslowski.erb",
+        "zneuray.erb-vscode-snippets",
+        "hjleochen.rails-nav",
+        "tmikoss.rails-latest-migration",
+        "rebornix.ruby",
+        "ricardo-emerson.ruby-on-rails-development-extensions-pack",
+        "kosai106.ruby-syntax-replacer",
+        "misogi.ruby-rubocop",
+        "rubocop.vscode-rubocop",
+        "bung87.rails",
+        "hridoy.rails-snippets"
+    ]
+}
